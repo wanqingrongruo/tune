@@ -1,0 +1,6 @@
+framework module Pods_tuneUITests {
+  umbrella header "Pods-tuneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
